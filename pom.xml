@@ -16,8 +16,8 @@
         <maven.compiler.target>17</maven.compiler.target>
 
         <!-- SonarCloud values -->
-        <sonar.organization>your-org-name</sonar.organization>
-        <sonar.projectKey>your-project-key</sonar.projectKey>
+        <sonar.organization>com.mycompany.app:my-appe</sonar.organization>
+        <sonar.projectKey>com.mycompany.app:my-app</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
         <jacoco.version>0.8.12</jacoco.version>
